@@ -1,5 +1,4 @@
-<p align="center">
-Studying at CPHBusiness and currently learning Java.
+<p align="center">Studying at CPHBusiness and currently learning Java.
 
  
 <picture>
