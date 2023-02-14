@@ -1,4 +1,4 @@
-<h1 align="center">Currently studying at Copenhagen Business Academy and learning Java</h1>
+<p align="center">Currently studying at Copenhagen Business Academy and learning Java 
 <picture>
 <picture align="center">
  <source media="(prefers-color-scheme: dark)" srcset= "https://media.tenor.com/VLeS4neQXoAAAAAC/yeat-twizzy.gif">
