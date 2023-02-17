@@ -3,7 +3,7 @@
   <h2>Hello! 💫</h2>
   <ul>
 <li> Graduate Niels Brock Copenhagen Business College 2022 👑
-<li> Current studying Computer Science at Copenhagen Business Acadameny 💠
+<li> Currently studying Computer Science at Copenhagen Business Acadameny 💠
 <li> Learning Java at the moment 💻
 <li> Yeat is the GOAT 👳
 
