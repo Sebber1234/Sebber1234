@@ -1,6 +1,6 @@
 <p <b align="center">Currently studying at Copenhagen Business Academy and learning Java...
 </p>
-<p align="left">
+<p align="right">
  <picture>
 <picture align="center">
  <source media="(prefers-color-scheme: dark)" srcset= "https://i.imgur.com/MUiLQxU.gif">
