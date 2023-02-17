@@ -5,7 +5,7 @@
 <li> Graduate Niels Brock Copenhagen Business College 2022 👑
 <li> Currently studying Computer Science at Copenhagen Business Academy 💠
 <li> Learning Java at the moment 💻
-<li> Yeat is the GOAT 👳
+<li> twizzy 👳
 
 </div>
 
