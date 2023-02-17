@@ -3,8 +3,6 @@
 <p align="right">
  <picture>
 <picture align="center">
- <source media="(prefers-color-scheme: dark)" srcset= "https://i.imgur.com/MUiLQxU.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/MUiLQxU.gif">
- <img alt="Twizzy" src="https://i.imgur.com/MUiLQxU.gif">
+<img src="https://i.imgur.com/MUiLQxU.gif" alt="Twizzy" width="200" height="200">
 </picture>
  </p> </b>
