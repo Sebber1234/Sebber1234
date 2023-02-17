@@ -1,4 +1,5 @@
-<p <b align="left">Currently studying at Copenhagen Business Academy and learning Java...
+<p align="left"> <h1> Hello </h1>
+Currently studying at Copenhagen Business Academy and learning Java...
 </p>
 <p align="right">
  <picture>
